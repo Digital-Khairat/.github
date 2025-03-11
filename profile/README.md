@@ -4,11 +4,11 @@ Digital Khairat is a SaaS platform designed to manage Khairat (funeral fund) dig
 
 # More Information
 
-Download our profile (here)[https://digitalkhairat.sgp1.cdn.digitaloceanspaces.com/files/profil.pdf] for more info.
+Download our profile [here](https://digitalkhairat.sgp1.cdn.digitaloceanspaces.com/files/profil.pdf) for more info.
 
 # Contact Us
 
-Any feedback or questions, feel free to contact us at (info@digitalkhairat.my)[info@digitalkhairat.my]
+Any feedback or questions, feel free to contact us at [info@digitalkhairat.my](info@digitalkhairat.my).
 <!--
 
 **Here are some ideas to get you started:**
