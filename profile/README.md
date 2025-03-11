@@ -1,6 +1,6 @@
 ## Assalamualaikum w.b.t 👋
 
-Digital Khairat is a SaaS platform designed to manage Khairat (funeral fund) digitally. The platform aims to streamline membership management, contributions, disbursements, and reporting for organizations handling Khairat funds. The system will enable users to register, contribute, and access services efficiently while ensuring transparency and accountability.
+[Digital Khairat](https://digitalkhairat.my) is a SaaS platform designed to manage Khairat (funeral fund) digitally. The platform aims to streamline membership management, contributions, disbursements, and reporting for organizations handling Khairat funds. The system will enable users to register, contribute, and access services efficiently while ensuring transparency and accountability.
 
 # More Information
 
